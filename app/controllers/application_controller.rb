@@ -36,7 +36,6 @@ end
       #User.create(username: params[:username], password: params[#:password])
       #redirect '/login'
     #end
-
   #end
 
   get '/account' do
