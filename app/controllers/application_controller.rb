@@ -28,6 +28,7 @@ class ApplicationController < Sinatra::Base
  end
 end
 
+    #or 
     #post "/signup" do
     #if params[:username] == "" || params[:password] == ""
       #redirect '/failure'
